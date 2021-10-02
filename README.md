@@ -1,2 +1,1 @@
-# vnspnet.github.io
-gh-pages template
+gh-pages template gatsbyjs build
