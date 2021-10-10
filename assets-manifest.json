@@ -1,0 +1,5 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/gatsby-astronaut.png": "static/gatsby-astronaut-b8fa5292fbd59c2db05281ba94ae9428.png"
+}
