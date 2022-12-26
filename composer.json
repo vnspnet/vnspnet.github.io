@@ -1,3 +1,4 @@
 {
-    "name": "vnsp/gatsbyjs"
+    "name": "vnsp/gatsbyjs",
+    "formation": { "web": { "size": "free" } }
 }
